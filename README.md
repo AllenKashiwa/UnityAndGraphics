@@ -1,4 +1,4 @@
-# StudyUnity
+# UnityAndGraphics
 
 这里用于分享我个人在学习和使用Unity3D引擎时的一些心得和技巧。基本每个项目都会和一篇文章相关联。欢迎大家与我交流，你可以在以下URL找到我：
 
@@ -8,6 +8,8 @@
 
 我的微博：http://weibo.com/allenkashiwa
 
+欢迎关注我的微信公众号：
+![Unity与图形学](http://baizihan.me/assets/images/qrcode.jpg)
 
 **Projector** 项目无对应文章，该工程利用Unity自带的Projector实现了一个类似守望先锋，CS等游戏中的喷漆功能，感兴趣的朋友可以看看。
 
